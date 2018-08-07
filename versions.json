@@ -1,0 +1,16 @@
+{
+    "latest":1.0,
+    "download":"",
+    "versions": [
+        {
+            "board_version": 1,
+            "protocol_version": 1,
+            "sha-key": "41bcf6bde73ce1369ec71ecc1b603f41ab6a4b7a"
+        },
+        {
+            "board_version":2,
+            "protocol_version":1,
+            "sha-key": "c62750fe7b17dcadbb4285743f709fcfc78a1be8"
+        }
+    ]
+}
